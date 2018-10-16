@@ -17,3 +17,8 @@ UE4でのゲームです。個人ではなくチーム制作です。
  <<<コード及びアルゴリズム>>>
  
  コードとアルゴリズムは特に自由にコピペなど流用などして構いません。
+
+
+動画：https://youtu.be/u4Ia2bT0Nfw
+
+詳細：https://scrapbox.io/yutateno/Escape_Trancess
