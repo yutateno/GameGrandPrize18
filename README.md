@@ -1,6 +1,6 @@
 # GameGrandPrize18
 
-![Gif](https://raw.github.com/wiki/yutateno/GameGrandPrize18/ezgif.com-resize.gif)
+![Gif](https://raw.github.com/wiki/yutateno/GameGrandPrize18/gamegrand.gif)
 <br><br>
 
 ・内容
